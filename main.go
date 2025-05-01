@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Start")
+	fmt.Println("Hello!")
 
 	app := app.GetApp()
 
